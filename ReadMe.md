@@ -107,7 +107,3 @@ const main = async function (service) {
 
   console.log("data have been stored!")
 };
-
-5. What kind of tools and project structure would you use to design Node.js based microservice code repository. So that future development, maintenance and debugging will only be a pleasure for you and your team mates.
-
-Answer: Seneca
